@@ -1,0 +1,79 @@
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "282.0000",
+        "03. high": "290.8200",
+        "04. low": "281.2300",
+        "05. price": "289.0300",
+        "06. volume": "56544246",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "292.9200",
+        "09. change": "-3.8900",
+        "10. change percent": "-1.3280%"
+    }
+}
+The current price of AAPL is: 289.0300
+
+{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "1277.0600",
+        "03. high": "1306.2200",
+        "04. low": "1261.0500",
+        "05. price": "1298.4100",
+        "06. volume": "2660628",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "1319.0400",
+        "09. change": "-20.6300",
+        "10. change percent": "-1.5640%"
+    }
+}
+The current price of GOOG is: 1298.4100
+
+{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "690.0035",
+        "03. high": "707.0000",
+        "04. low": "684.2700",
+        "05. price": "703.4800",
+        "06. volume": "12662918",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "724.5400",
+        "09. change": "-21.0600",
+        "10. change percent": "-2.9067%"
+    }
+}
+The current price of TSLA is: 703.4800
+
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "162.6100",
+        "03. high": "163.1100",
+        "04. low": "156.0000",
+        "05. price": "161.5700",
+        "06. volume": "72821057",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "166.2700",
+        "09. change": "-4.7000",
+        "10. change percent": "-2.8267%"
+    }
+}
+The current price of MSFT is: 161.5700
+
+{
+    "Global Quote": {
+        "01. symbol": "FORD",
+        "02. open": "1.0000",
+        "03. high": "1.0200",
+        "04. low": "0.9902",
+        "05. price": "0.9950",
+        "06. volume": "9103",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "0.9902",
+        "09. change": "0.0048",
+        "10. change percent": "0.4848%"
+    }
+}
+The current price of FORD is: 0.9950
