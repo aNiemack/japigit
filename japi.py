@@ -35,6 +35,7 @@ def main():
             print("The current price of " + quote["Global Quote"]["01. symbol"] + " is: " + quote["Global Quote"]["05. price"])
 
     output.close
+    print("Stock Quotes retrieved successfully!")
 
 if __name__ == "__main__":
     main()
